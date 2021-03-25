@@ -1,0 +1,16 @@
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\bin\Debug\netcoreapp3.1\RabiitMq.exe
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\bin\Debug\netcoreapp3.1\RabiitMq.deps.json
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\bin\Debug\netcoreapp3.1\RabiitMq.runtimeconfig.json
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\bin\Debug\netcoreapp3.1\RabiitMq.runtimeconfig.dev.json
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\bin\Debug\netcoreapp3.1\RabiitMq.dll
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\bin\Debug\netcoreapp3.1\RabiitMq.pdb
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\obj\Debug\netcoreapp3.1\RabiitMq.AssemblyInfoInputs.cache
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\obj\Debug\netcoreapp3.1\RabiitMq.AssemblyInfo.cs
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\obj\Debug\netcoreapp3.1\RabiitMq.csproj.CoreCompileInputs.cache
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\obj\Debug\netcoreapp3.1\RabiitMq.dll
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\obj\Debug\netcoreapp3.1\RabiitMq.pdb
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\obj\Debug\netcoreapp3.1\RabiitMq.genruntimeconfig.cache
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\obj\Debug\netcoreapp3.1\RabiitMq.csproj.CopyComplete
+F:\学习文件\Asp.NetCoreWebapi\StarupDemo\RabiitMq\obj\Debug\netcoreapp3.1\RabiitMq.csprojAssemblyReference.cache

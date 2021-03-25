@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3qIuB2sV18t8FhrJbNQH4l0i7MtegTI4coNBwc4q04WIJPyapcbUDiMnF5l+Txy2vA+MrOXLdlw38BGfQZRpNQ==",
+  "success": true,
+  "projectFilePath": "F:\\学习文件\\Asp.NetCoreWebapi\\StarupDemo\\RabiitMq\\RabiitMq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shanbo\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\shanbo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\shanbo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
